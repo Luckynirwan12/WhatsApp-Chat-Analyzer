@@ -55,6 +55,8 @@ A Streamlit web app that allows you to upload and analyze WhatsApp chat data wit
 
 ├── stop_hinglish.txt    # Stopwords list for word filtering
 
+├── requirements.txt    # store all requied dependencies
+
 ---
 
 ## 📄 How to Run Locally
